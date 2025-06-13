@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Camiseta Tuneflies",
+    "preco": 149.99,
+    "imagem": "assets/produto1.png"
+  },
+  {
+    "nome": "Oversized Vinil",
+    "preco": 169.99,
+    "imagem": "assets/produto2.png"
+  },
+  {
+    "nome": "Camisa Premium Reload",
+    "preco": 129.99,
+    "imagem": "assets/produto 3.png"
+  }
+]
